@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cara black.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jejeje0000" x="0" y="0" width="776" height="529" frameX="-2" frameY="-1" frameWidth="779" frameHeight="530"/>
+	<SubTexture name="jejeje0001" x="0" y="529" width="776" height="529" frameX="-3" frameY="0" frameWidth="779" frameHeight="530"/>
+	<SubTexture name="jejeje0002" x="0" y="1058" width="776" height="529" frameX="0" frameY="0" frameWidth="779" frameHeight="530"/>
+</TextureAtlas>
