@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="act.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="act0000" x="0" y="0" width="300" height="160"/>
+	<SubTexture name="act0001" x="0" y="0" width="300" height="160"/>
+	<SubTexture name="act0002" x="0" y="0" width="300" height="160"/>
+	<SubTexture name="act0003" x="0" y="160" width="300" height="160"/>
+	<SubTexture name="act0004" x="0" y="160" width="300" height="160"/>
+	<SubTexture name="act0005" x="0" y="160" width="300" height="160"/>
+</TextureAtlas>
