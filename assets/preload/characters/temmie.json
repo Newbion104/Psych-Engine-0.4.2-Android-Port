@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				-2
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Temmie Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-55
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Temmie down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				16,
+				10
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Temmie Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-33,
+				-2
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Temmie Rigth",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Temmie idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "flowey/images/temcore/Temmie",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "temmie",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

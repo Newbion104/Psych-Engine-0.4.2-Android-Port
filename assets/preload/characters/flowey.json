@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-12
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Flowey left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-22
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Flowey down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				13
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Flowey up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				4
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Flowey rigth"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Flowey idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-18
+			],
+			"anim": "Glitch",
+			"fps": 24,
+			"name": "Flowey Glitch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				25
+			],
+			"anim": "Transformation",
+			"fps": 24,
+			"name": "Flowey transformation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "flowey/images/flowey",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "flowey",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		91
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				-39
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Alt Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-41
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Alt Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-17
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Alt Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-24
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Alt Rigth"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "evil Flowey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "flowey/images//Alt_Flowey",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "flowey-alt",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		91
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
