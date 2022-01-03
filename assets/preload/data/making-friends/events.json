@@ -1,0 +1,54 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "cave",
+		"player1": "bf",
+		"player2": "flowey",
+		"player3": null,
+		"events": [
+			[
+				23117.6470588235,
+				[
+					[
+						"Play Animation",
+						"Glitch",
+						"Dad"
+					]
+				]
+			],
+			[
+				23294.1176470588,
+				[
+					[
+						"Play Animation",
+						"Transformation",
+						"Dad"
+					]
+				]
+			],
+			[
+				23911.7647058824,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.2"
+					],
+					[
+						"Change Character",
+						"1",
+						"flowey-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-roca",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Making Friends"
+	}
+}
