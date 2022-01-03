@@ -1,18 +1,18 @@
 {
 	"songs": [
 		[
-			"Making Friends",
-			"flowey",
+			"Temcore",
+			"temmie",
 			[
-				255,
-				216,
-				91
+				49,
+				176,
+				209
 			]
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "flowey",
-	"difficulties": "hard",
+	"weekBackground": "Temcore",
+	"difficulties": "hard, mania",
 	"weekCharacters": [
 		"",
 		"",
@@ -21,11 +21,11 @@
 	"storyName": "",
 	"weekName": "Undertale",
 	"freeplayColor": [
-		255,
-		216,
-		91
+		175,
+		175,
+		175
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekBefore": "tutorial",
 	"startUnlocked": true
 }

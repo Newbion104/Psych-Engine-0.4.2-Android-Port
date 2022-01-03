@@ -1,17 +1,17 @@
 {
 	"songs": [
 		[
-			"Making Friends",
-			"flowey",
+			"HARD MODE",
+			"saness",
 			[
-				255,
-				216,
-				91
+				155,
+				155,
+				155
 			]
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "flowey",
+	"weekBackground": "Judgement Hall",
 	"difficulties": "hard",
 	"weekCharacters": [
 		"",
@@ -21,11 +21,11 @@
 	"storyName": "",
 	"weekName": "Undertale",
 	"freeplayColor": [
-		255,
-		216,
-		91
+		175,
+		175,
+		175
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekBefore": "tutorial",
 	"startUnlocked": true
 }
